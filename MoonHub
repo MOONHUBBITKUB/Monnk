@@ -1,0 +1,6 @@
+
+if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7449423635 then 
+ setclipboard("https://discordd.gg")
+else 
+  game.Players.LocalPlayer:kick("Th : รันเเมพอื่นไม่ได้นะครับ Eng : Do not exploit in other maps. Vn : Không sử dụng trong các bản đồ khác.")
+end
